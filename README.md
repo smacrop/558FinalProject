@@ -4,9 +4,11 @@
 
 ##### We will need the following packages: shiny, caret, tidyverse, and DT. 
 
-```install.packages("shiny", "caret", "tidyverse", "DT")
+```
+install.packages("shiny", "caret", "tidyverse", "DT")
 library(shiny)
 library(caret)
 library(tidyverse)
-library(DT)```
+library(DT)
+```
 
